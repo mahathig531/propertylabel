@@ -1,0 +1,10 @@
+bedroom
+bathroom
+living room
+kitchen
+dining room
+study
+garage
+balcony
+hallway
+other
