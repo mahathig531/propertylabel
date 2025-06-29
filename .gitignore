@@ -79,3 +79,6 @@ coverage/
 # Temporary folders
 tmp/
 temp/ 
+# Model files
+backend/best_room_classifier.pth
+backend/yolov8x.pt
