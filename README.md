@@ -116,9 +116,6 @@ The application will be available at:
 - `POST /upload-zip/`: Upload and process ZIP files
 - `GET /health`: Health check endpoint
 
-## Environment Variables
-
-- `GEMINI_API_KEY`: Your Google Gemini API key (required)
 
 ## Contributing
 
