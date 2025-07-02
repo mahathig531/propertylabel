@@ -14,7 +14,6 @@ A full-stack application that uses Google's Gemini Vision Language Model (VLM) t
 
 ### Backend
 - **FastAPI**: Modern Python web framework
-- **Google Gemini API**: Vision Language Model for image analysis
 - **Python 3.9+**: Core programming language
 - **Uvicorn**: ASGI server for running FastAPI
 
@@ -50,7 +49,7 @@ property-labeling-bot/
 - Python 3.9 or higher
 - Node.js 14 or higher
 - npm or yarn
-- Google Gemini API key
+
 
 ### Backend Setup
 
@@ -68,12 +67,6 @@ property-labeling-bot/
 3. **Install dependencies**:
    ```bash
    pip install -r requirements.txt
-   ```
-
-4. **Create environment file**:
-   Create a `.env` file in the backend directory with your Gemini API key:
-   ```
-   GEMINI_API_KEY=your_actual_gemini_api_key_here
    ```
 
 5. **Start the backend server**:
